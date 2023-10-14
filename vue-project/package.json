@@ -11,7 +11,8 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "lodash.uniqueid": "^4.0.1",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.4",
